@@ -1,0 +1,55 @@
+
+#page-right-wikipedia-wrapper {
+	border: 1px solid #DBDBDB;
+	background-color: rgba(255, 255, 255, 0.85);
+	padding: 25px;
+	margin-bottom: 25px;
+}
+
+#page-right-wikipedia-wrapper input {
+	width: 100%;
+	padding: 10px 5px;
+}
+
+#wikipedia-submit-btn{
+	cursor: pointer;
+}
+
+#page-right-wikipedia-wrapper table th {
+	text-align: center;
+}
+
+#page-right-wikipedia-wrapper table th, td {
+	width: 50%;
+	padding: 10px 5px;
+}
+
+#page-right-wikipedia-wrapper table, th, td {
+	font-size: small;
+	border: 1px solid #DBDBDB;
+	border-collapse: collapse;
+	text-align: left;
+	margin-top: 25px;
+}
+#page-right-wikipedia-result-wrapper table{
+	cursor: pointer;
+}
+
+#page-right-wikipedia-wrapper button {
+	cursor: pointer;
+}
+
+h2[name=green]{
+	color: green;
+}
+
+#wImg{
+	float: left;
+	padding-right: 10px;
+	padding-left: 5px;
+}
+
+#wText{
+	height: 350px;
+	overflow: scroll;
+}
